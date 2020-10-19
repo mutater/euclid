@@ -12,3 +12,8 @@ class Math():
 
     def avg(self, x, y):
         return int((x + y)/2)
+
+    def vardist(self, b, d):
+        sqrt3 = (b[0]-b[1])*(b[0]-b[1])
+        sqrt4 = (d[0]-d[1])*(d[0]-d[1])
+        return int(math.sqrt(sqrt3 + sqrt4))
