@@ -17,3 +17,9 @@ class Math():
         sqrt3 = (b[0]-b[1])*(b[0]-b[1])
         sqrt4 = (d[0]-d[1])*(d[0]-d[1])
         return int(math.sqrt(sqrt3 + sqrt4))
+        
+    def pythag(self, a, b):
+        abX = (abs(a[0]-b[0]))
+        abY = (abs(a[1]-b[1]))
+        
+        return int(math.sqrt(abX**2 + abY**2))
