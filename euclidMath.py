@@ -14,8 +14,8 @@ class Math():
         return int((x + y)/2)
 
     def vardist(self, b, d):
-        sqrt3 = (b[0]-b[1])*(b[0]-b[1])
-        sqrt4 = (d[0]-d[1])*(d[0]-d[1])
+        sqrt3 = abs(b[0]-b[1])*(b[0]-b[1])
+        sqrt4 = abs(d[0]-d[1])*(d[0]-d[1])
         return int(math.sqrt(sqrt3 + sqrt4))
         
     def pythag(self, a, b):
