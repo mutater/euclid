@@ -27,4 +27,6 @@ pygame.draw.line(screen, (0, 0, 0), g, h, 2)
 
 pygame.display.flip()
 
-input()
+while True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT: sys.exit()
