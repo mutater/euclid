@@ -37,6 +37,8 @@ pygame.draw.line(screen, (0, 0, 0), a, h, 2)
 pygame.draw.line(screen, (0, 0, 0), h, i, 2)
 pygame.draw.line(screen, (0, 0, 0), i, b, 2)
 
+pygame.display.flip()
+
 while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT: sys.exit()

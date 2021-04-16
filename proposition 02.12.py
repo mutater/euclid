@@ -23,6 +23,7 @@ pygame.draw.line(screen, (0, 0, 0), a, c, 2)
 
 pygame.draw.line(screen, (0, 0, 0), d, c, 2)
 
+pygame.display.flip()
 
 while True:
     for event in pygame.event.get():

@@ -36,7 +36,7 @@ pygame.draw.line(screen, (0, 0, 0), g, h, 2)
 
 pygame.draw.circle(screen, (0, 0, 0), e, distEB, 1)
 
-
+pygame.display.flip()
 
 while True:
     for event in pygame.event.get():
