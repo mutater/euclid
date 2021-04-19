@@ -13,8 +13,8 @@ class Math():
     def avg(self, x, y):
         return int((x + y)/2)
 
-    def vardist(self, b, d):
-        sqrt3 = abs(b[0]-b[1])*(b[0]-b[1])
+    def vardist(self, c, d):
+        sqrt3 = abs(c[0]-c[1])*(c[0]-c[1])
         sqrt4 = abs(d[0]-d[1])*(d[0]-d[1])
         return int(math.sqrt(sqrt3 + sqrt4))
         
