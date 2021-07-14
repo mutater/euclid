@@ -1,0 +1,279 @@
+Slime notes [LVL 3]
+
+From my recent adventures into what I call the “Slime Garden” I’ve discovered many different slimes as well as what seems to be a source. The source seems to be a sort of flower that oozes out the slime. I’ve seen four types of slimes in the slime garden. These are the green, blue, grey, and yellow slimes. The former three are much easier to defeat than the yellow slimes. There also is a correlation between color and stat bonuses for each slime. Green slimes for vitality, blue slimes for…. Blue, grey for defense and yellow for attack.
+
+
+-----------------------------------------------------------------------------------------------------
+Pest Exterminator [LVL 1]
+
+There has been an increase in pests (Moss gnomes, wood bats, and carpenter ants) in the area. Exterminate them!
+
+
+--------------------------------------------------------------------------------------------
+Defensive Decrease [LVL 6]
+
+Due to reasons speculated, a group of insane individuals have been spotted wandering the forest, and it is not safe to travel the roads anymore. Reports say that there are 3 different types of people in the group: crazed men, hunters, and magicians. Find and kill them.
+
+P.S. rumor has it that these people were previously seen entering the fallen grove, home to the “deadwood” forest.
+
+-5 crazed men
+-3 crazed hunters
+-3 crazed magicians
+
+
+------------------------------------------------------------------------------------------------
+Golem Gauntlet [LVL 14]
+
+I’ve taken an interest in the local collection of golems! The 4 main types are wood, mud, quartz, and alloy! Simply bring me the materials for my research and I shall give you the firsthand account of a new strengthening item! Oh, but be careful, the golems have a very high defense!
+
+-10 (mud and wood golem drop)
+-8 quartz
+-6 alloy
+
+Reward: Golem Gauntlet (gives bonus to def. and str.)
+
+
+-------------------------------------------------------------------------------------------
+Deadly Adventure [LVL 13?]
+
+Many people have been disappearing in the fallen grove, or deadwood forest. There are a multitude of different enemies there, and most are decaying. Not much is known about the area, but rumors say that there is a shrieking coming from the middle of the forest at midnight. The only way to get there is by boat, so I’ll give you a special ticket that will let you ride for free. Use it how you like.
+
+
+------------------------------------------------------------------------------------
+Enchanted Eulogy
+
+There are enchanted tools roaming the forest! Bring the shards they drop to me, and some bones, and I shall write a beautiful eulogy to put evil souls to rest! … I will also give the recipe to you, of course, for use in whatever travels or situations you may be in.
+
+- 15 enchanted shards
+- 5 bones
+
+Reward: 1x Light Eulogy, and recipe for Light Eulogy
+
+Light Eulogy:
+50-60 damage
+Guaranteed hit
+Consumed on use
+Gives purge effect
+Costs 10 enchanted shards and 3 parchment to make 3
+Deals extra damage to evil things (up to you)
+
+
+
+Monsterpedia
+
+Carpenter Ant | LVL 1
+Att: 1
+Arm: 0
+HP: 1
+MP:
+
+Moss Gnome | LVL 1
+Att:
+Arm:
+HP:
+MP:
+
+Wood Bat | LVL 1
+Att:
+Arm:
+HP:
+MP:
+
+Green Slime | LVL 2
+Att:
+Arm:
+HP:
+MP:
+
+Blue Slime | LVL 3
+Att:
+Arm:
+HP:
+MP:
+
+Crazed Man | LVL 4
+Att:
+Arm:
+HP:
+MP:
+
+Gray Slime | LVL 4
+Att:
+Arm:
+HP:
+MP:
+
+Lesser Forest Spirit | LVL 4
+Att:
+Arm:
+HP:
+MP:
+
+Crazed Hunter | LVL 5
+Att:
+Arm:
+HP:
+MP:
+
+Forest Wolf | LVL 6
+Att:
+Arm:
+HP:
+MP:
+
+Tree Snake | LVL 6
+Att:
+Arm:
+HP:
+MP:
+
+Crazed Magycian | LVL 7
+Att:
+Arm:
+HP:
+MP:
+
+Bobcat | LVL 8
+Att:
+Arm:
+HP:
+MP:
+
+Giant Frog | LVL 8
+Att:
+Arm:
+HP:
+MP:
+
+Slime Flower | LVL 8 | Slime Garden EX
+Att:
+Arm:
+HP:
+MP:
+
+Wood Golem | LVL 9
+Att:
+Arm:
+HP:
+MP:
+
+Mud Golem | LVL 9
+Att:
+Arm:
+HP:
+MP:
+
+Tree Man | LVL 10
+Att:
+Arm:
+HP:
+MP:
+
+Bandit | LVL 11
+Att:
+Arm:
+HP:
+MP:
+
+Yellow Slime | LVL 12
+Att:
+Arm:
+HP:
+MP:
+
+Corrputed Forest Spirit | LVL 12 | Fallen Grove EX
+Att:
+Arm:
+HP:
+MP:
+
+Forest Spirit | LVL 13
+Att:
+Arm:
+HP:
+MP:
+
+Rotted Tree Man | LVL 13 | Fallen Grove EX
+Att:
+Arm:
+HP:
+MP:
+
+Quartz Golem | LVL 14
+Att:
+Arm:
+HP:
+MP:
+
+Root Skeleton | LVL 14
+Att:
+Arm:
+HP:
+MP:
+
+Metal Golem | LVL 15
+Att:
+Arm:
+HP:
+MP:
+
+Razor Flower | LVL 15 | Fallen Grove OR
+Att:
+Arm:
+HP:
+MP:
+
+Enchanted Scythe | LVL 16
+Att:
+Arm:
+HP:
+MP:
+
+Enchanted Axe | LVL 16
+Att:
+Arm:
+HP:
+MP:
+
+Enchanted Sword | LVL 17
+Att:
+Arm:
+HP:
+MP:
+
+Gray Wolf | LVL 18
+Att:
+Arm:
+HP:
+MP:
+
+Goblin Warrior | LVL 18
+Att:
+Arm:
+HP:
+MP:
+
+Phantom Stag | LVL 19
+Att:
+Arm:
+HP:
+MP:
+
+Phantom | LVL 20
+Att:
+Arm:
+HP:
+MP:
+
+Greater Forest Spirit | LVL 21
+Att:
+Arm:
+HP:
+MP:
+
+Wraith | LVL 21 | Fallen Grove EX
+Att:
+Arm:
+HP:
+MP:
+
